@@ -26,5 +26,5 @@ We used Seaborn and Matplotlib to generate visualizations such as:
 - Distribution of customer Age, Income Category, and Transaction Amount for customers who churned vs. those who stayed.
 - Correlation heatmaps to show relationships between numerical features.
 
-### Conclusion
+## Conclusion
 This project demonstrates the potential of using customer data to predict and understand churn in the banking industry. By identifying customers at risk of attrition, banks can take proactive measures to retain valuable customers and reduce churn rates.
